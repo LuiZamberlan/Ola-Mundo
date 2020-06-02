@@ -3,4 +3,4 @@
 
 Repositório criado e editado como teste e meio de aprendizado.
 
-Essa linha eu adcionei pelo site do github.com
+Essa linha eu adicionei pelo site do github.com
